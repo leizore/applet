@@ -1,0 +1,14 @@
+{
+	"client": "./dist",
+	"svr": "./server",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "touristappid",
+	"projectname": "app",
+	"condition": {}
+}

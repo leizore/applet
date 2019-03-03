@@ -1,0 +1,11 @@
+/build/
+/config/
+/dist/
+/src/mock/
+/src/vendor/
+/*.js
+/src/api/
+/src/common/
+/src/app.js
+/src/dist
+/src/utils/*.js
